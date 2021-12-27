@@ -11,7 +11,9 @@ error encounted
 steps i recommend to be taken
 1. I used node 14.18.1 {the latest version of node gives the metro error}
 2. dont install globally {npx react-native init <projectName>}
-3. i installed JDK and i opened the typed edit the system variable environment and copy the path in my environment
+3. i installed JDK and i opened the typed edit the system variable environment and copy the path in my environment or use 
+  https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-fix-common-JAVA_HOME-errors-quickly
+  
 4. https://stackoverflow.com/questions/27620262/sdk-location-not-found-define-location-with-sdk-dir-in-the-local-properties-fil
 use this link for the sdk error
 5. To debug your appliation you should use emulator{which was not fruitful}, so i used my device
